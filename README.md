@@ -1,3 +1,3 @@
 # ExonPredictor
 
-Implement a Hidden Markov Model to predict if exons are intronic or exonic
+Implemented a Hidden Markov Model to predict if exons are intronic or exonic
