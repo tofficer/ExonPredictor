@@ -1,5 +1,5 @@
-//CS 576 H4
-//Author: Tyler Officer
+//Bioinformatics
+//Tyler Officer
 
 import java.util.*;
 import java.io.*;
